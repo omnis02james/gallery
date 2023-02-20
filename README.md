@@ -1,5 +1,5 @@
-# itunes-gallery
-A simple application to display album images with the iTunes Search API.
+# gallery
+A simple gallery application.
 
 # USAGE
 ```
